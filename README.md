@@ -1,5 +1,5 @@
-# the Blob
-blob eats !
+# flying bot
+
 
 # run watchmode of file
 tsc app.ts --watch
